@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "BESSIG Meeting Tue, Nov 27, 4 - 6 PM"
+date:   2012-11-09
+author: Anne Wilson
+---
+Note: this month we're meeting on a Tuesday!
+
+Please join us back at the Boulder Outlook Hotel for:
+
+Nate Wilhelmi, NCAR/CISL, "Experiences Using RDF and a Triple Store for Metadata Storage and Search"
+
+4:00 - 5:00 presentation
+
+5:00 - 6:00 social
+
+See you there!

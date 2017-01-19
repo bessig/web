@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, April 18, 5PM - 7PM"
+date:   2012-04-15
+author: Anne Wilson
+---
+Note the time change: 5:00 instead of 4:00!
+
+This month we'll review the recent UCAR data citation workshop, then make a foray into ontology and semantic-related areas. 
+
+In May and June we'll continue with speakers on ontology and semantic-related topics.  The site calendar  contains more information.  If you have experiences in this area that you are willing to share, please contact Anne.
+
+**Speakers**
+
+Matt Mayernik, NCAR Library, "UCAR Workshop Review - Bridging Data Lifecycles: Tracking Data Use via Data Citations." (Note: Many of these slides were taken from the workshop presentations posted at http://library.ucar.edu/data_workshop/. Original slide authors are noted in red text in the top left of the slides.)
+
+Ruth Duerr, NSIDC, "Early Experiences in Semantics "
+
+**When:** Wednesday, April 18, 5:00 - 7:00
+
+**Where:**  Boulder Outlook Hotel
+
+**Schedule**
+
+5:00 - 6:00: speakers
+
+6:00 - 7:00: social 

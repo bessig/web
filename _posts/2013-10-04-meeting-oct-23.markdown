@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, Oct 23, 4 - 6 PM"
+date:   2013-10-04
+author: Anne Wilson
+---
+Regridding of data is a common problem faced by many scientific software developers.   If regridding is part of your world, this talk may be of interest to you.  Come join us at the Boulder Outlook Hotel for this month's talk:
+
+There is more to conservative interpolation--- interpolating edge and face centered fields in the geo-sciences
+
+Alexander Pletzer, Tech-X
+
+Interpolation is one of the most widely used postprocessing tasks, according to a survey of Ultrascale Visualization Climate Data Analysis Tools (UV-CDAT) users. Most geo-postprocessing tools (UV-CDAT, NCL, Ferret, etc) support a choice of both bilinear and conservative regridding with conservative interpolation guaranteeing that the total amount of "stuff" (energy, water, etc) remains unchanged after regridding. The SCRIP and ESMF are examples of libraries implementing these interpolation methods.
+
+We argue that the type of interpolation is dictated by the type of field and that cell centered fields require conservative interpolation whereas nodal fields require bilinear (or higher order) interpolation. Moreover, the wind velocity fields used by finite-volume atmospheric codes, which are neither cell-centered nor nodal but face-centered (Arakawa D staggering), require different interpolation formulas. Interpolation formulas of face-centered and edge-centered (Arakawa C) fields have been known as Whittney forms since 1957 and are widely used in electromagnetics. We present interpolation methods new to the geo-sciences that conserve flux and line integrals for Arakawa D, respectively Arakawa C, stagggered fields.
+
+This talk should be of interest to anybody in need to regrid velocity and other vector fields whose components are staggered with respect to each other.
+
+**Schedule (mostly)**
+
+4:00 - 5:00 Presentation
+
+5:00 - 6:00 Social

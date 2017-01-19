@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, Sept 19, 4 - 6 PM"
+date:   2012-09-12
+author: Anne Wilson
+---
+Another BLAST!  Many thanks to Anna and Dave for their willingness to share ideas with us this month.
+
+Anna Milan, NOAA/NESDIS/NGDC, Metadata for the Archive: Transition to ISO, Approaches, Challenges, and Opportunities
+
+Dave Fulker, President, OPeNDAP, Inc., A (Very) Rough Idea: Raster Binning and Masking Services (see attachment)
+
+I'll sketch my idea for a new type of data query/response service built (perhaps for EarthCube) around a standardized space-time raster that has a dual function. Tentatively dubbed "Raster Binning & Masking Services" or RBinMasks, users would gain a (potentially standard) way to specify (irregular) space-time regions of interest and a (potentially standard) way to gain information about the space-time distributions of pertinent data, without -- or before -- retrieving actual values. 
+
+Come join us at the Boulder Outlook Hotel!
+
+4:00 - 5:00 Presentations
+
+5:00 - 6:00 Social

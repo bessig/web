@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, Feb 19, 4:00 - 6:00 PM, Outlook"
+date:   2014-02-12
+author: Anne Wilson
+---
+We're still at the Outlook through April 2014.  We seek an alternative venue for May and beyond. Please see New Venue Desirements below and keep them in mind as you move around Boulder.  
+
+(red star)  Note that this meeting will be held in the Panorama Room of the Outlook Hotel instead of our usual Chatauqua room.  This means that we won't have a server and food and drinks must be ordered in the restaurant.
+
+**Accessing Data Instead of Ordering Data: A New Normal**
+
+Michael Little, the Advanced Development Systems Engineer at the Atmospheric Science Data Center (ASDC)
+
+Mike will describe how the new generation of research objectives will need to avoid staging data locally from multiple modeling and observational repositories.  Rather, new access methods will present a machine-to-machine interface which permits codes and software applications to retrieve small increments of data continuously as part of the processing.  The ASDC's Data Acess architecture will be described with a particular emphasis on iRODS as one of the most promising tools for remote access to data held in earth science data centers.
+
+Mike's slides for this talk are available here:  [DataDistributionArchitecture_0.4.3.pptx]({{site.url}}{{site.baseurl}}/downloads/DataDistributionArchitecture_0.4.3.pptx)
+
+**Schedule (mostly)**
+
+4:00 - 5:xx presentation
+
+5:xx - 6:00 social
+
+**New Venue Desirements**
+
+Free, or cost based on attendance
+
+Can purchase food and beverages
+
+Easy to get to, easy to park, in Boulder
+
+Separate room
+
+Projection capability
+
+Internet connectivity
+
+hours 4 - 6:00 Tu or Wed, 2nd, 3rd, or 4th week of the month, flexible

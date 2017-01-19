@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "BESSIG Meeting Monday, August 31, 2015, 4:00 - 6:00, Gondolier"
+date:   2015-08-24
+author: Anne Wilson
+---
+(red star)  We're meeting at the Gondolier, http://www.gondolierboulder.com/, who are providing us this space for free.   In searching for a venue, I have learned how rare and special it is for a business to provide this.  Please come and order something so that the Gondolier can continue to offer us this space. (red star)  
+
+**Leveraging Internet Identity for Scientific Collaborations**
+
+Ken Klingenstein, Evangelist, Digital Identity & Privacy, Internet2
+
+In the last several years there has been rapid development of an identity layer for the Internet. Efforts in government, R&E, businesses and among social identity providers are creating an infrastructure of identity and attributes that is being leveraged to access supercomputers, social sites, health care providers, federal research agencies, instrumentation and databases, cloud based storage and compute services, etc.
+
+The two major areas in this work are federated identity, which allows local identities, authentication and attributes to be used Internet-wide, and collaboration platforms, which allow virtual organizations and other multi-institutional efforts to build on federated identity and seamlessly use a growing pool of collaboration applications (wikis, listservs, file sharing, code management tools, command line apps, etc).
+
+This talk will discuss the current state of federated identity, including international inter-federation and US government activities, and how federated identities are being used in leading-edge US science communities. It will then present the emergence of collaboration platforms, and their ability to integrate access control and group management across collaboration applications using open standards. Demos might happen; interruptions and comments most welcome.
+
+**Schedule (more or less)**
+
+4:00 - 5:00 Presentation
+
+5:00 - 6:00 Social

@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "---
+layout: post
+title:  "BESSIG Meeting Monday, September 21, 4:30, Gondolier"
+date:   2015-09-14
+author: Anne Wilson
+---"
+date:   2015-11-23
+author: Anne Wilson
+--- 
+
+(red star)  Note that we will meet at LASP, 1234 Innovation Drive, http://lasp.colorado.edu/home/.   Please see below for more information regarding our venue, parking, etc. (red star)  
+
+**Dynamic Data Citations: The Current State**
+
+Ruth Duerr, The Ronin Institute for Independent Scholarship
+
+> "Sound, reproducible scholarship rests upon a foundation of robust, accessible data.  For this to be so in practice as well as theory, data must be accorded due importance in the practice of scholarship and in the enduring scholarly record.  In other words, data should be considered legitimate, citable products of research.  Data citation, like the citation of other evidence and sources, is good research practice and is part of the scholarly ecosystem supporting data reuse."
+
+> Data Citation Synthesis Group: Joint Declaration of Data Citation Principles. Martone M. (ed.) San Diego CA: FORCE11; 2014 [https://www.force11.org/datacitation].
+ 
+Citation of research data is becoming the norm.  Government agencies like OSTP, NSF, NASA and NOAA require data to be fully and openly accessible, and have articulated data citation as a means to achieving open and equal access to data to all interested parties.   Also, publishers are requiring manuscript submitters to provide access to the data sets used in their published research in order to link publications with the data that underly them.   Citation of research data is a key component of these goals.
+
+Priniciples of data citation have reached some degree of maturity, but significant issues remain.  In particular, how does one cite data that is dynamic, e.g., created via subsetting, aggregation, or other on-demand, server side functionality?
+
+The Research Data Alliance (RDA) Working Group on data citation has been working in this area, and the Federation of Earth Science Information Partners (ESIP Federation) held a workshop on Dynamic Data Citation this year.  In this talk, Ruth will describe the the current state of research data citation and the results of these recent efforts.
+ 
+As a data scientist/engineer , Ruth Duerr has been interested in four fields of inquiry: science data management, digital archives management, records management, and digital library science. All four fields are developing separately, yet share similar problem spaces – how to make available and preserve digital data and information over time. Her research interests involve nearly all aspects of data stewardship. She currently is a PI and/or Project Manager for several ongoing and recent data management and cyberinfrastructure projects funded by NSF, NASA and NOAA.
+
+Ruth's talk is here:
+
+Data Citations - BESSIG.pdf
+
+**Venue note**
+
+Sadly, we lost our most recent meeting venue, The Gondolier, which now requires a minimum order amount well beyond what we can guarantee. 
+
+For this reason, we'll hold this meeting at LASP.    Parking at LASP is abundant and free after 5:00.  We believe that meeting attendees will be able to arrive around 4:45 or later and not receive a parking violation.  (If that does happen, let me know - we might be able to fix it.) 
+
+If you have ideas about other FREE meeting venues please let me know. 

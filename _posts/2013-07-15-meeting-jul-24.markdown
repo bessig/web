@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, July 24, 4 - 6 PM"
+date:   2013-07-15
+author: Anne Wilson
+---
+In July we're meeting in the 4th week of the month, rather than the 3rd.  Please join us at the Boulder Outlook Hotel for our own Ted talk:
+
+HDF and The Earth Science Platform
+
+Ted Habermann, The HDF Group
+
+Interoperable data and understanding across the Earth Science community requires convergence towards a standard set of data formats and services, metadata standards, and conventions for effective use of both. Although large legacy archives still exist in netCDF3, HDF4, and many custom formats, we have achieved considerable convergence in the data format layer with the merger of the netCDF4 and HDF5 formats. The way forward seems clear as more groups in many disciplines join the HDF5 community. The data service layer has experienced similar convergence as OGC Service Standards are adopted and used in increasing numbers and connections across former chasms are deployed (ncWMS, ncSOS, netCDF/CF as OGC Standards). Many data providers around the world are in the process of converging towards ISO Standards for documenting data and services. Connections are also helping here (ncISO). Many groups are now working towards convergence in the conventions layer. The HDF-EOS and Climate-Forecast conventions have been used successfully for many datasets spanning many Earth Science disciplines. These two sets of conventions reflect different histories and approaches that provide a rich set of lessons learned as we move forward.
+
+**Schedule**
+
+4:00 - 5:00 Presentation
+
+5:00 - 6:00 Social
+
+Stop on by!

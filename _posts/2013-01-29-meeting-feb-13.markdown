@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, Feb 13, 4 - 6 PM"
+date:   2013-01-29
+author: Anne Wilson
+---
+Due to the constraints of our speaker, we're meeting the 2nd week of February instead of the 3rd.
+
+Yet more around semantics!   Please join us at the Boulder Outlook Hotel for:
+
+Beth Huffer, Lingua Logica, "ODISEES: An Ontology-Driven Interactive Search Environment for Earth Sciences"
+
+As part of an on-going effort at NASA Langley’s Atmospheric Science Data Center, and in cooperation with the Computational & Information Sciences & Technology Office at the Goddard Space Flight Center, we have developed a semi-automated method for finding and comparing equivalent data and climate model output variables across disparate datasets.  We will demonstrate an ontology-driven variable matching service that provides an automated mapping among comparable variables from multiple data products and climate model output products. The interactive user interface is driven by a queriable ontological model of the essential characteristics of data and climate model output variables, the products they occur in, the atmospheric parameters represented in the data, and the instruments and techniques used to measure or model the parameters. Queries of the ontology and triple store are used to match comparable variables by enabling users to search for those that share a user-specified set of essential characteristics. 
+
+The application addresses an emerging need among Earth scientists to compare climate model outputs to other models and to satellite observations, and addresses some of the barriers that currently make such comparisons difficult.  In particular, the application
+
+* Eliminates the need for users to be familiar with the multiple data vocabularies and standards that exist within the Earth sciences community; and
+* With a few mouse clicks, provides ready access to the information needed by scientists to understand the similarities and differences between two or more data or climate model products, enabling them to quickly determine which products best suit their requirements.
+
+**Schedule**
+
+4:00 - 5:00 Presentation
+
+5:00 - 6:00 Social
+
+Come on by!

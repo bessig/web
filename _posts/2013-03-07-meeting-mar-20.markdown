@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, March 20, 4 - 6 PM"
+date:   2013-03-07
+author: Anne Wilson
+---
+Please join us at the Boulder Outlook Hotel for:
+
+Doug Lindholm, LASP, "LaTiS: a data model, an API, a web service AND a floor wax"*
+
+LaTiS is a data model, a data analysis API, and a REST-ful web service for accessing scientific data via a common interface.
+
+The LaTiS data model provides a scientific domain independent, unifying, mathematical foundation for describing datasets that captures the functional relationships between parameters. The Scala implementation of this model provides an API for reading data directly from their native source, the ability to compute with high level abstractions appropriate for the task at hand, and options for filtering, transforming, and writing data in various formats.
+
+This talk will discuss how these capabilities are used to enable a modular web service framework that can easily be installed and configured by a data provider, and that allows users to dynamically reformat a dataset, including its time representation, storage format, missing values, etc.
+
+This talk will be a preview (i.e. beta release) of the talk I will give at UCAR Software Engineering Assembly Conference in April.
+
+Schedule
+
+4:00 - 5:00 Presentation
+
+5:00 - 6:00 Social
+
+Come on by!
+
+> [Open on suburban kitchen, Wife and Husband arguing]
+
+> Wife: New LaTiS is a floor wax!
+
+> Husband: No, new LaTiS is a data model!
+
+> Wife: It's a floor wax!
+
+> Husband: It's a data model!
+
+> Wife: It's a floor wax, I'm telling you!
+
+> Husband: It's a data model, you cow!
+
+> Spokesman: [enters quickly] Hey, hey, hey, calm down, you two. New LaTiS is both a floor wax and a data model! Here, I'll spray some on your mop. [sprays LaTiS onto mop] ..and some for your data server. [sprinkles LaTiS onto laptop]
+
+> [Husband computes while Wife mops]
+
+> Husband: Mmmmm, works great!
+
+> Wife: And just look at that shine! **
+
+** with apologies to SNL

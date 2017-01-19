@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, Jan 16, 4 - 6 PM"
+date:   2013-01-08
+author: Anne Wilson
+---
+More on semantics!  Please join us at the Boulder Outlook Hotel for:
+
+Stephen Williams, Office of Faculty Affairs, CU Boulder, "VIVO, VITRO, DataStar, and Beyond - The VIVO Project"
+
+The VIVO project was started at Cornell University in 2003 as a faculty profiling system for Mann Library.  The profiling system that is VIVO was designed in two parts, VITRO the semantic engine that is ontology agnostic and VIVO the ontology specific pages and data for presenting faculty profiles.  This concept of a two tied system was taken into the third tier with location specific changes (Cornell and CU-Boulder) and ontologies that build upon VIVO (data star).  This talk will focus on the VIVO project as a whole, its history, its ancillary projects, and its future.  We'll also try to cover difficulties and lessons in semantic programming and the experiences of building ETL tools for semantic data.
+
+**Schedule**
+
+4:00 - 5:00 Presentation
+
+5:00 - 6:00 Social

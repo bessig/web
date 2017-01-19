@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, April 16, 4:15 - 6:00, Outlook"
+date:   2014-04-09
+author: Anne Wilson
+---
+We're still at the Outlook through April 2014.  We seek an alternative venue for May and beyond. Please see New Venue Desirements below and keep them in mind as you move around Boulder. 
+
+(red star)  Note that we'll start at 4:15 this month due to our speaker's schedule.
+
+(red star) This month marks the 3rd anniversary of the BESSIG!
+
+**An Easy Bake Semantic Metadata Repository for Scientific Data**
+
+Mik Cox, Tyler Traver, Anne Wilson, Doug Lindholm, Laboratory for Atmospheric and Space Physics (LASP), Don Elsborg, CU Faculty Affairs
+ 
+This presentation will discuss the use of open source tools and the tasks that remained to create a semantically enabled metadata repository.
+The LASP Interactive Solar Irradiance Data Center, LISIRD, is a web site that serves the lab's solar irradiance and related data products to the public. LISIRD provides information about the data it offers as part of its web page content, embedded in static HTML. At the same time, other LASP web sites also provide the same information, such as sites pertaining to specific missions or education and outreach.  Keeping data set information updated and in sync across web sites is a problem. Nor is the information interoperable with emerging search and discovery tools.
+
+To address this and other issues, we created a semantically enabled metadata repository that holds information about our data.  In conjunction, we prototyped a new implementation of LISIRD that dynamically renders page content, pulling metadata from the repository and including in the page current, vetted metadata from a single, definitive source. Other web pages can similarly pull this information if they choose.  Additionally we can now offer new semantic browse and search capabilities, such as search of data sets by type (currently spectral solar irradiance, total solar irradiance, and solar indices) or over a particular spectral range provided by the user.
+
+We can also render the metadata in various formats understandable to other communities, such as SPASE for the heliophysics community and ISO for the international community. This will allow us to federate with sites that use those formats, allowing broader discovery of our data.
+
+To date, metadata management at LASP has generally been done on a per project, ad hoc basis. We are building applications on top of the repository that provide CRUD (create, read, update, delete) capabilities for metadata records to metadata 'owners' and 'curators'. We expect this to help data managers to store and manage their metadata in a more rigorous fashion should they choose to use it.
+
+We heavily leveraged existing open source tools to create the repository. In this talk we'll talk about using VIVO to create a semantic database, LaTiS to fetch data and metadata, and AngularJS to write dynamic, testable JavaScript.  We'll describe our experiences extending two existing ontologies to meet our space physics domain needs.
+
+With these tools and some student time (though our students are exceptional) we are achieving significantly increased capabilities at a relatively low cost. We believe this tool combination could help projects with limited resources achieve similar capabilities to manage and provide access to metadata.
+
+And, if that's not easy-bake enough for you, try this PC EZ-Bake Oven, made especially for geeks: http://www.thinkgeek.com/stuff/41/ezbake.shtml.  
+Link to the presentation: http://prezi.com/89us-xb64leu/?utm_campaign=share&utm_medium=copy
+
+**Schedule  (mostly)**
+
+4:15 - 5:xx presentation
+
+5:xx - 6:00 social
+ 
+**New Venue Desirements**
+
+Free, or cost based on attendance
+
+Can purchase food and beverages, or within walking distance of such 
+
+Easy to get to, easy to park, in Boulder
+
+Separate room
+
+Projection capability
+
+Internet connectivity
+
+hours 4:00 - 6:00 Tu or Wed, 2nd, 3rd, or 4th week of the month, flexible

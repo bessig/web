@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, February 22, 5 PM"
+date:   2012-01-27
+author: Anne Wilson
+---
+We are dovetailing with the UCAR SEA 2012 Software Engineering Conference, which allows us to have these speakers from out of town.  This is why we are meeting at 5:00 instead of our usual 4:00.   (And also why we are meeting on the 4th Wednesday of the month instead of the 3rd.)
+
+**Speakers:**
+
+Jay Alameda, NCSA, "Bringing Modern Tools to High Performance Computing - with a Spotlight on XSEDE and Blue Waters"
+
+Chris Mattmann, JPL, "Understanding how to Best Leverage Open Source Data Management Software: A Roadmap" 
+
+**When:** Wednesday, February 22, 5:00 - 7:00
+
+**Where:**  Boulder Outlook Hotel
+
+**Schedule:**
+
+5:00 - 5:30 gather, social
+
+5:30 - 6:00 Jay Alameda
+
+6:00 - 6:30 Chris Mattmann
+
+6:30 - 7:00 social

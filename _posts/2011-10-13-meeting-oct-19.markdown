@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, October 19, 4PM"
+date:   2011-10-13
+author: Anne Wilson
+---
+
+**NetCDF for the Masses**
+
+Ed Hartnett, Unidata, UCAR
+
+"Why should anyone consider using netCDF to store their data?"
+
+**NOTE THE *NEW* NEW LOCATION:**  This meeting will be held at the [Boulder Outlook Hotel and Suites](http://www.boulderoutlook.com/) in the Chatauqua room.  The Hotel is near Aurora and 28th St Frontage Road*. 
+
+We are trying this new location that offers a private room with food and beverages in a non smoking environment.   The bar menu includes  starters, soups, salads, sandwiches, burgers, burger alternatives, steaks, desserts, and 9 beers on tap, most of them local.  The Outlook has graciously offered to let us use the room for free for this meeting.  If we can generate sufficient sales for them, they might let us come back.
+
+**Schedule:**
+
+4:00 - 5:00: talk and discussion
+
+5:00 - 6:00: social
+
+Hope to see you there!
+
+*If driving from 30th and Colorado, don't try to turn left from Colorado onto the 28th St Frontage Road, it is illegal.  Instead head south on 30th and turn right on Aurora.

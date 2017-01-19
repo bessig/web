@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, Apr 17, 4 - 6 PM"
+date:   2013-04-05
+author: Anne Wilson
+---
+This month marks the two year anniversary of the BESSIG!   Please join us at the Boulder Outlook Hotel for a remote presentation: 
+
+Chris Lynnes, Chief Systems Engineer of the Goddard DAAC, NASA, "The Earth Science Collaboratory"
+
+The Earth Science Collaboratory is a proposed framework for supporting the sharing within the Earth science community of data, tools, analysis methods, and results, plus all the contextual knowledge that go with these artifacts.  The likely benefits include:
+
+* access to expert knowledge about how to work with data safely and efficiently
+* full reprocability of results
+* efficient collaboration within multi-disciplinary and/or geographically distributed teams
+* a social network to bring together researchers and data users with common interests
+
+Currently, there are some nascent efforts to construct such a collaboratory.  However, by its very (inclusive) nature, this construction is likely to be most successful as an emergent process, evolving from many point-to-point connections to an eventual ecosystem of cooperating components supporting collaboration. 
+
+In particular, **we are actively seeking scientists and other potential users of such a collaboratory to provide an end user perspective of system functionality**.   Would you find such a collaboratory helpful?   Do you have ideas about how it could be better?  Would you like to influence its design?  Those that are actively engaged will be heard and could end up with a tool that particularly suits their needs.   If this role interests you, please attend this talk and/or otherwise let us know of your interest.
+
+**Schedule**
+
+4:00 - 5:00 Presentation
+
+5:00 - 6:00 Social
+
+Drop on by!
+
+Post presentation material 
+
+The slides for the talk are available here:[ESC BESSIG slides](http://wiki.esipfed.org/images/3/3f/ESC_BESSIG.pptx).
+
+The recorded version of the talk is available here.  Please note that the talk actually starts 21 minutes into the recording, as the first 15 minutes were intended to be for testing.  (Sorry, we had serious technical difficulties at the hotel!  It will be better next time!) 

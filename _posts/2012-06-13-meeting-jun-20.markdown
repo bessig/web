@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, June 20, 4 - 6 PM"
+date:   2012-06-13
+author: Anne Wilson
+---
+More around semantics!
+
+**Who**
+
+SiriJodha Khalsa, NSIDC, "Modeling the Model - the Semantics of the CCSM4 Sea Ice Model "
+
+Don Elsborg, LASP, "Applied Semantic Web Technology - A use case with Semantic Mediawiki"
+
+**Where**
+
+Boulder Outlook Hotel
+
+**Schedule**
+
+4:00 - 6:00  PM
+
+Please come!

@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "BESSIG Meeting Tue, May 21, 4 - 6 PM"
+date:   2013-04-11
+author: Anne Wilson
+---
+Note that this month we are meeting on a Tuesday instead of a Wednesday!
+
+Please join us at the Boulder Outlook Hotel for a presentation and demo of:
+
+NOAA Earth Information Services and TerraViz
+
+Eric Hackathorn, Julien Lynge, Jeff Smith, TerraViz, NOAA
+
+Jebb Stewart, Chris MacDermaid, NEIS, NOAA
+
+The NOAA Earth Information Services (NEIS) is a framework of layered services designed to help the discovery, access, understanding, and visualization of data from the past, present, and future. It includes a visualization component named TerraViz that is a multi-platform tool, running on desktops, web browsers, and mobile devices. The goal is to ingest "big data" and convert that information into efficient formats for real-time visualization. Designed for a world where everything is in motion, NEIS and TerraViz allow fluid data integration and interaction across 4D time and space, providing a tool for everything NOAA does and the people NOAA affects.
+
+TerraViz is built using the Unity game engine.  While a game engine may seem a strange choice for data visualizations, our philosophy is to take advantage of existing technology whenever possible.  Video games are a multibillion-dollar industry, and are quite simply the most powerful tools for pushing millions of points of data to the user in real-time. Our presentation illustrated displaying environmental data in TerraViz at a global scale, visualizing regional data in “scenes” such as the flooding of the Washington DC area or rotating a coastal ecosystem in three axes, and developing environmental simulations/games like exploring the ocean floor in a submarine.
+
+![NEIS Image 1]({{ site.url }}{{ site.baseurl }}/images/neis_image_1.png)
+
+The NEIS backend similarly takes lessons from private industry, using Apache Solr and other open source technologies to allow faceted search of NOAA data, much as sites like Amazon and Netflix do.
+
+![NEIS Image 2]({{ site.url }}{{ site.baseurl }}/images/neis_image_2.png)
+
+We believe that to have an impact on society, data should be easy to find, access, visualize, and understand.  NEIS simplifies and abstracts searching, connectivity, and different data formats, allowing users to concentrate on the data and science.
+
+Please contact us if you want to explore including your environmental data within NEIS/TerraViz or if you want to talk to us about developing custom visualizations or educational simulations to showcase your important data.
+
+NOAA / Earth System Research Lab / Global Systems Division, Boulder, Colorado
+
+NEIS/TerraViz: [NEIS/TerraViz](http://www.esrl.noaa.gov/neis/)
+
+**Schedule**
+
+4:00 - 5:00 Presentation
+
+5:00 - 6:00 Social

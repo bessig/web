@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "BESSIG Meeting Monday, September 21, 4:30, Gondolier"
+date:   2015-09-14
+author: Anne Wilson
+---
+(red star)  We're meeting at the Gondolier, http://www.gondolierboulder.com/, who are providing us this space for free.   In searching for a venue, I have learned how rare and special it is for a business to provide this.  Please come and order something so that the Gondolier can continue to offer us this space. (red star)  
+
+**Ontology Reuse in Geoscience Semantic Applications**
+
+Matt Mayernik, Project Scientist and Research Data Services Specialist, UCAR Library
+
+Interplays between local ontology development and the establishment of wider ontology connections are fundamental to the Semantic web. This presentation will discuss the goals and work of the EarthCollab project, focusing on ontology selection, consolidation, and reuse driven by geoscience use cases. The EarthCollab project is a collaboration between UCAR, Cornell University, and UNAVCO to leverage semantic technologies to manage and link geoscientific information and resources. We are using the VIVO semantic web software suite to support the discovery of information, data, and potential collaborators within the geodesy and polar science communities.
+
+We will present our ontology design approach, which is heavily emphasizing ontology reuse, and how the different needs of each use case have informed our ontology selection and design. In specific, we will discuss our approach to bringing together the VIVO-Integrated Semantic Framework (VIVO-ISF) ontology, the Global Change Information System (GCIS) ontology, and the Data Catalog (DCAT) ontology, among others, using the VIVO application. We are interested in engaging the BESSIG community in discussions around 1) key decision points for new semantic web applications in deciding when to reuse existing ontologies and when to develop original ontologies, 2) the benefits and drawbacks of using and expanding existing ontologies.
+ 
+**Schedule (more or less)**
+
+4:30 - 6:00 Presentation and Social

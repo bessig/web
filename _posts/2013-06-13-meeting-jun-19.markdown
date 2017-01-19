@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, June 19, 4 - 6 PM"
+date:   2013-06-13
+author: Anne Wilson
+---
+This month we'll meet again the Boulder Outlook Hotel for:
+
+Py in the Sky: IPython and other tools for scientific computing
+
+Monte Lunacek, Application Specialist, CU Research Computing
+
+Roland Viger, Research Geographer, USGS
+
+Python offers a rich toolkit that is useful for scientific computing.  In this talk, we will introduce the IPython package and discuss three useful components: the interactive shell, the web-based notebook, and the parallel interface.  We will also demonstrate a few concepts from the Pandas data analysis package and, time permitting, offer a few tips on how to profile and effortlessly speedup your python code.  This talk will describe and illustrate these tools with example code.  If Python is not your favorite programming language, this overview might change that.
+
+**Schedule**
+
+4:00 - 5:00 Presentation
+
+5:00 - 6:00 Social
+
+Come on by!

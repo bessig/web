@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "BESSIG Meeting, Mon, Feb 22, Alfalfa's Boulder, 4:30 - 6:00"
+date:   2016-02-16
+author: Anne Wilson
+---
+(red star)  Note: Please do no park in the Alfalfa's parking lot.  There is parking on the street or in the library parking lot.  (red star)  
+
+**Evaluating the Readiness of Scientific Software, Starting in the BESSIG Community**
+
+A discussion, led by Soren Scott, The Ronin Institute
+ 
+Science and research code is currently a hot topic.   We see ongoing discussions around citations and credit for writing science software, sustainability and transparency of such software, and reproducibility of scientific results, which generally means runnable code. 
+
+One aspect of those discussions involves the evaluation of science code for recommended practices and for evaluating understanding project maturity as projects progress from prototype to operational systems. The ESIP Products & Services committee <http://wiki.esipfed.org/index.php/Products_and_Services> has begun this discussion through the recently initiated, NASA-supported AIST TRL Evaluation project, which aims to determine independent criteria for evaluating the technical readiness of a project, including its software.  
+
+With that as a starting point, and leveraging the work of the Software Sustainability Institute <http://www.software.ac.uk/>, this meeting will be not just a discussion, but a brainstorming session on science software evaluation in the BESSIG community.  The session will be led by Soren Scott.   We especially want active science/research software developers to participate.  If you develop scientific software, please come.   Possible topics include:
+
+* What are basic software practices that every project should use?  What additional practices are applicable to higher readiness or maturity levels?   Is software maturity the same as software readiness?
+* What would a good science/research code linter look like? (http://stackoverflow.com/questions/8503559/what-is-linting.)  How do these practices align with generally accepted good code practices? How do you measure progress?
+* What matters to you in software evaluation and what kind feedback from such a process would help you?  
+
+As background material, Soren has prepared some Technology Evaluation Resources, a set of resources and working products related to technology evaluation efforts through ESIP and BESSIG communities.  Thanks, Soren!
+
+Also, if this topic moves you, consider joining the ESIP cluster (it's free!) and helping to move this effort forward.
+
+Note that this month we are meeting in the Community Room at Alfalfa's in Boulder, 1651 Broadway.  We can purchase food and drinks from the store to take into the meeting.   If you plan to do that, please leave yourself time to shop as we'll start promptly at 4:30.  Please do not park on the Alfalfa's premises.  There is side street parking, parking at the library, and possibly across Arapahoe after 5:00. 

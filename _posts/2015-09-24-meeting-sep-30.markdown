@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "BESSIG Meeting Wednesday, September 30, 4:00, Gondolier"
+date:   2015-09-24
+author: Anne Wilson
+---
+Dr. Elizabeth Griffin will be visiting Boulder in preparation for an international 2016 Data Rescue workshop sponsored by the Research Data Alliance, also to be held in Boulder.
+
+Following Elizabeth's presentation to the BESSIG, there will be a group discussion of opportunities and logistics for the workshop.  As it offers the chance to bring data programs together from across the Front Range, we would like to identify workshop organizing committee members and workshop partners who can take the lead on planning and supporting a fantastic international event.  Please bring your great ideas and data rescue experiences to share in this exciting conversation!
+
+**Rescuing Vanishing Heritage Data: Why, How, Who, Where, & When? A brief review**
+
+Elizabeth Griffin, Dominion Astrophysical Observatory, Victoria, Canada
+
+Data Rescue has never been more relevant than today, when quantitative information on matters pertaining to long-term climate change and other environmental properties of Planet Earth is sorely needed. Yet progress is seriously patchy. We review what is driving current activities, the status of group efforts, the hurdles, and the outlook.
+
+Dr Elizabeth Griffin is a research astrophysicist, educated in the UK and carrying out research in Cambridge (UK) for 30 years, then in Oxford, and is now continuing those projects at the Dominion Astrophysical Observatory (Victoria, Canada). Early experience with photographic recording of data (before computers and CCDs were on the horizon) encouraged her to pioneer the rescue (through programmes of digitization) of the information on many of Astronomy's plates regarding stellar variability, and from there to team up with other similar projects in a diversity of scientific fields. She co-Chairs (with David Gallaher) an international WG for Data Rescue, and meets all types of reactions to Data Rescue, from hugely supportive to downright sceptical.
+ 
+**Schedule (more or less)**
+
+4:00 - 4:45  Presentation and discussion
+
+4:45 - 6:00  Workshop discussion and planning, social

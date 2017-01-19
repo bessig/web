@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "BESSIG Meeting Tue, July 24, 4 - 6 PM"
+date:   2012-07-12
+author: Anne Wilson
+---
+NB: This is a slightly different scheduling than we've had in past!  Tuesday instead of Wednesday, 4th week of the month instead of the third.
+
+Jeffrey Morisette, USGS, “Developing a common modeling framework for the Department of Interior’s North Central Climate Science Center”
+
+This month we welcome Jeff Morisette, visiting us from USGS in Fort Collins to talk about, among other things, his experience with VisTrails.  From the page [VisTrails Overview](http://www.vistrails.org/index.php/Main_Page#VisTrails_Overview) , "VisTrails was designed to manage rapidly evolving scientific workflows and provenance that support simulations, data exploration and visualization."  Jeff's group added a package to that software: SAHM, Software for Assisted Habitat Modeling.
+
+Jeff is currently the director of the DOI North Central Climate Science Center where he manages and conducts research on how natural and cultural land management can respect the non-stationary nature of climate.  A current research theme is how dynamic species distribution models can contribute to vulnerability assessment and adaptation planning.
+
+We'll meet at the Boulder Outlook Hotel.  Come on by!
+
+**Schedule**
+
+4:00 - 5:00 Presentation
+
+5:00 - 6:00 Social

@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "BESSIG Meeting Wed, March 21"
+date:   2012-03-10
+author: Anne Wilson
+---
+This month we are pleased to have some out of town colleagues speaking about a variety of topics related to content management.
+
+**Speakers:**
+
+Jerry Pan, Oak Ridge National Laboratory (ORNL), "Geoscience Data Repository in Digital Object Model and Open-Source Frameworks: Provenance Applications" 
+
+Ajinkya Kulkarni, University of Alabama, Huntsville, "Utilizing Drupal, an Open Source Web Framework to Support Science 2.0 Projects" 
+
+Erin Robinson, ESIP Foundation,  "ESIP Commons: Publishing Non-Traditional Content"
+
+**When:** Wednesday, March 21, 4:00 - 6:00
+
+**Where:** Boulder Outlook Hotel
+
+**Schedule:**
+
+4:00 - 5:00: speakers
+
+5:00 - 6:00: social
