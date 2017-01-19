@@ -1,11 +1,6 @@
 ---
 layout: post
-title:  "---
-layout: post
-title:  "BESSIG Meeting Monday, September 21, 4:30, Gondolier"
-date:   2015-09-14
-author: Anne Wilson
----"
+title:  "BESSIG Meeting Monday, November 30, 2015, 5:00 - 6:30, LASP"
 date:   2015-11-23
 author: Anne Wilson
 --- 
@@ -30,7 +25,7 @@ As a data scientist/engineer , Ruth Duerr has been interested in four fields of 
 
 Ruth's talk is here:
 
-Data Citations - BESSIG.pdf
+Data Citations - [Data Citations - BESSIG.pdf]({{site.url}}{{site.baseurl}}/downloads/Data Citations%20-%20BESSIG.pdf)
 
 **Venue note**
 
