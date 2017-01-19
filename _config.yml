@@ -18,7 +18,7 @@ title: BESSIG
 description: > # this means to ignore newlines until "baseurl:"
   Boulder (Denver) Earth Space Science Informatics Group
 baseurl: "/web" # the subpath of your site, e.g. /blog
-url: "http://bessig.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bessig.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  bessig
 
