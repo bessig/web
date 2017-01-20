@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "BESSIG relaunch, February 2017"
+date:   2016-01-19
+author: Leslie Hsu
+---
+Thanks to Soren Scott for helping to migrate over to GitHub pages! 
+
+**B(D)ESSIG relaunch, February 2017**
+
+We (Leslie Hsu, Madison Langseth, Sean Gordon, and Sophie Hou) have been chosen, and have agreed to, get some BESSIG events going in 2017.
+
+On alternating months, events will be held in Lakewood/Golden/Arvada/Denver (Leslie and Madison) and Boulder (Sean and Sophie).
+
+Don't worry, we have read all of the previous posts about the spirit and goals of BESSIG (almost), and will do our best, while trying new things.
+
+In February, we are going to gather at New Terrain in Golden (http://newterrainbrewing.com/), 16401 Table Mountain Pkwy, Golden, CO 80403.
+
+We will meet at 5:00pm and instead of a presentation this time, will use the day to meet each other (there may be new attendees from the (D)enver area).
+
+--> We will link a poll here when ready, and choose a day. <--
+
+Things you can do now
+* If you have a GitHub account, join the BESSIG organization (send request to hsu.leslie@gmail.com). (remember to set yourself as Public after you join)
+* Post any comments/questions/suggestions in the Issues area. 
