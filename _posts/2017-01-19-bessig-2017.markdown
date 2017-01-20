@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BESSIG relaunch, February 2017"
-date:   2016-01-19
+date:   2017-01-19
 author: Leslie Hsu
 ---
 Thanks to Soren Scott for helping to migrate over to GitHub pages! 
