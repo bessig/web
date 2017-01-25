@@ -6,11 +6,11 @@ author: Leslie Hsu
 ---
 Thanks to Soren Scott for helping to migrate over to GitHub pages! 
 
-## **B(D)ESSIG relaunch, February 2017**
+## B(D)ESSIG relaunch, February 2017
 
 We (Leslie Hsu, Madison Langseth, Sean Gordon, and Sophie Hou) have been chosen, and have agreed, to organize some BESSIG events in 2017.
 
-On alternating months, events will be held in Lakewood/Golden/Arvada/Denver (Leslie and Madison) and Boulder (Sean and Sophie).
+On alternating months, events will be held in **D**enver/Lakewood/Golden/Arvada (Leslie and Madison) and Boulder (Sean and Sophie).
 
 Don't worry, we have read all of the previous posts about the spirit and goals of BESSIG (almost), and will do our best, while trying new things.
 
