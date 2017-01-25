@@ -21,5 +21,7 @@ We will meet at 5:00pm, and instead of a presentation this time, will use the ti
 ### --> [Mark your availability on this poll!](http://doodle.com/poll/b5x5ahdkuitsugc8) <--
 
 Other things you can do now
+
 * If you have a GitHub account, join the BESSIG organization (send request to hsu.leslie@gmail.com). (remember to set yourself as Public after you join)
+
 * Post any comments/questions/suggestions in the Issues area. 
