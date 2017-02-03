@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Thursday, February 16, 5:00-6:30, New Terrain: Brainstorming"
+date:   2017-02-03
+author: Leslie Hsu
+---
+
+**Brainstorming and Beer**
+
+We will meet on Thursday, February 16th, at [New Terrain Brewing](http://newterrainbrewing.com/) in (north) Golden, CO, from 5:00-6:30p. (16401 Table Mountain Pkwy, Golden, CO 80403)
+
+Sorry if you can’t make it at this time, we hope to see you at a future gathering.
+
+We’ll be inviting local members of the [Community for Data Integration](https://my.usgs.gov/confluence/display/cdi), which is coordinated by USGS but open to anyone interested in the topics of data integration and management. This will add the “D” to B(D)ESSIG (that’s not an official name). 
+
+**GOAL: Meet new people, reunite with old friends, learn what each other do, gather topics for future BESSIG meetings, brainstorm how to communicate Informatics talks in a bar.**
+
+Contacts:
+Leslie Hsu (hsu.leslie@gmail.com) and Madison Langseth (mlangseth@usgs.gov).
+
